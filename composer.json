@@ -1,0 +1,16 @@
+{
+    "name": "peekleon/datatables-rowgroup",
+    "repo": "datatables/rowgroup",
+    "description": "RowGrouping extension for DataTables ",
+    "version": "1.0.3",
+	"license": "MIT",
+    "homepage": "http://www.datatables.net/",
+    "author": {
+        "name": "Allan Jardine",
+        "url": "http://www.datatables.net/"
+    },
+    "require": {
+        "components/jquery": ">=1.7",
+        "datatables/datatables": "^1.10"
+    }
+}
